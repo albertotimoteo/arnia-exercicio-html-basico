@@ -25,3 +25,7 @@ Este site deverá conter 5 páginas
 8. Lembre-se de trocar os titles de cada página.
 9. Na página de experiências profissionais, se possível, adicione links aos nomes das empresas.
 10. Extra: Caso queira tentar, dê uma lida na documentação da tag <nav> para utilizá-la na página inicial.
+
+### Imagens
+
+![Página inicial](resultado-paginas/inicial.PNG)
