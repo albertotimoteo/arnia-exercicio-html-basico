@@ -15,8 +15,8 @@ Este site deverá conter 5 páginas
 - A página de contato deverá possuir links para contato com você, como e-mail e telefone.
 
 ### Dicas
-1. Para fazer navegação entre as páginas, utilize o <a href="nomedapagina.html">
-2. Adicione a tag <meta charset="utf-8" /> dentro do head, para que seus acentos não quebrem.
+1. Para fazer navegação entre as páginas, utilize o ```<a href="nomedapagina.html">```
+2. Adicione a tag ```<meta charset="utf-8" />``` dentro do head, para que seus acentos não quebrem.
 3. Cada página será um documento HTML separado.
 4. Tente também adicionar uma imagem na página de sobre você. Lembre-se de ajustar o tamanho da imagem para caber bem na tela.
 5. Na tela de contato lembre-se de usar o mailto: e o tel: para identificar que os valores são de telefone ou e-mail.
@@ -24,7 +24,7 @@ Este site deverá conter 5 páginas
 7. A página inicial deve se chamar index.html.
 8. Lembre-se de trocar os titles de cada página.
 9. Na página de experiências profissionais, se possível, adicione links aos nomes das empresas.
-10. Extra: Caso queira tentar, dê uma lida na documentação da tag <nav> para utilizá-la na página inicial.
+10. Extra: Caso queira tentar, dê uma lida na documentação da tag ```<nav>``` para utilizá-la na página inicial.
 
 ### Imagens
 
