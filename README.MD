@@ -29,3 +29,7 @@ Este site deverá conter 5 páginas
 ### Imagens
 
 ![Página inicial](resultado-paginas/inicial.PNG)
+![Sobre mim](resultado-paginas/sobre.PNG)
+![Habilidades](resultado-paginas/habilidades.PNG)
+![Experiências](resultado-paginas/experiencias.PNG)
+![Contato](resultado-paginas/contato.PNG)
